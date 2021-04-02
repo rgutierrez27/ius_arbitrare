@@ -457,7 +457,7 @@
                                 <div class=gdlr-core-pbf-element>
                                     <div class="gdlr-core-text-box-item gdlr-core-item-pdlr gdlr-core-item-pdb gdlr-core-center-align gdlr-core-no-p-space" style="padding-bottom: 22px ;">
                                         <div class=gdlr-core-text-box-item-content style="text-transform: none ;">
-                                            <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Doloribus ex, accusamus ipsum in sunt molestiae doloremque distinctio? Quos eveniet quam quas enim necessitatibus, facilis earum, tenetur rem quasi, dolores magnam.</p>
+                                            <p>{{$item->detail_area}}</p>
                                         </div>
                                     </div>
                                 </div>
