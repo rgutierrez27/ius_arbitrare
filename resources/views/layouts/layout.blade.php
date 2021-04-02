@@ -280,7 +280,7 @@
                     </div>
                     <div class="attorna-footer-column attorna-item-pdlr attorna-column-30">
                         <div id=gdlr-core-custom-menu-widget-4 class="widget widget_gdlr-core-custom-menu-widget attorna-widget">
-                            <h3 class="attorna-widget-title">Practice Areas</h3><span class=clear></span>
+                            <h3 class="attorna-widget-title">Ares</h3><span class=clear></span>
                             <div class=menu-practice-areas-container>
                                 <ul id=menu-practice-areas class="gdlr-core-custom-menu-widget gdlr-core-menu-style-half">
                                     <li class="menu-item"><a href=#>Coporate &#038; Securities</a></li>
