@@ -33,6 +33,4 @@ Route::get('/quienes-somos', 'HomePageController@quienesSomos');
 Route::get('/proyecto-pro-bono-y-responsabilidad-social', 'HomePageController@proyectoProBono');
 Route::get('/diversidad-equidad-e-inclusion', 'HomePageController@diversidadEquidad');
 Route::get('/codigo-etico-y-de-conducta-de-la-firma', 'HomePageController@codigoEtico');
-
-
-
+Route::get('/trabaja-con-nosotros', 'HomePageController@trabajaConNosotros');

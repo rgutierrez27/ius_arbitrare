@@ -68,7 +68,7 @@
 
 <p style="text-align:justify"><span style="font-size:11pt"><span style="font-family:Calibri,sans-serif"><span style="font-size:12.0pt"><span style="font-family:&quot;Arial&quot;,sans-serif">Las normas, principios y valores que se recogen en el presente C&oacute;digo &Eacute;tico y de Conducta, fundan el modelo &eacute;tico de comportamiento que debe inspirar y presidir, en todo momento, la actuaci&oacute;n de los miembros de la Firma Ius Arbitrare.</span></span></span></span></p>
 
-<p style="text-align:justify">&nbsp;</p>
+{{-- <p style="text-align:justify">&nbsp;</p> --}}
 
 <p style="text-align:justify"><span style="font-size:11pt"><span style="font-family:Calibri,sans-serif"><strong><span style="font-size:12.0pt"><span style="font-family:&quot;Arial&quot;,sans-serif">CONDUCTA PROFESIONAL</span></span></strong></span></span></p>
 
@@ -82,7 +82,7 @@
 
 <p style="margin-left:48px; text-align:justify"><span style="font-size:11pt"><span style="font-family:Calibri,sans-serif"><span style="font-size:12.0pt"><span style="font-family:&quot;Arial&quot;,sans-serif">Los miembros de la firma no podr&aacute;n utilizar el nombre de lus Arbitrare ni invocar su condici&oacute;n de miembro de la Firma para realizar operaciones en beneficio propio o en beneficio de personas a ellos vinculadas. </span></span></span></span></p>
 
-<p style="margin-left:48px; text-align:justify">&nbsp;</p>
+{{-- <p style="margin-left:48px; text-align:justify">&nbsp;</p> --}}
 
 <ol start="2">
 	<li style="text-align:justify"><span style="font-size:11pt"><span style="font-family:Calibri,sans-serif"><strong><span style="font-size:12.0pt"><span style="font-family:&quot;Arial&quot;,sans-serif">Compromiso con el cliente</span></span></strong></span></span></li>
@@ -90,13 +90,13 @@
 
 <p style="margin-left:48px; text-align:justify"><span style="font-size:11pt"><span style="font-family:Calibri,sans-serif"><span style="font-size:12.0pt"><span style="font-family:&quot;Arial&quot;,sans-serif">La actividad de la Firma está orientada a proporcionar a los clientes asesoramiento, consultor&iacute;as, procesos de resoluci&oacute;n de conflictos y soluciones jur&iacute;dicas de la m&aacute;s alta calidad y valor a&ntilde;adido, basados en principios &eacute;ticos, que son brindados mediante un servicio &aacute;gil y eficaz, con el m&aacute;ximo compromiso hacia sus intereses. Ello nos obliga a (i) entender las necesidades del cliente, (ii) proporcionarle una dedicaci&oacute;n constante, (iii) mantener un alto nivel de exigencia en el rigor t&eacute;cnico, y (iv) sin menoscabo de nuestra independencia, mantener un alto grado de compromiso con sus intereses.</span></span></span></span></p>
 
-<p style="margin-left:48px; text-align:justify">&nbsp;</p>
+{{-- <p style="margin-left:48px; text-align:justify">&nbsp;</p> --}}
 
 <ol start="3">
 	<li style="text-align:justify"><span style="font-size:11pt"><span style="font-family:Calibri,sans-serif"><strong><span style="font-size:12.0pt"><span style="font-family:&quot;Arial&quot;,sans-serif">Confidencialidad, protecci&oacute;n de datos y secreto profesional</span></span></strong></span></span></li>
 </ol>
 
-<p style="margin-left:48px; text-align:justify">&nbsp;</p>
+{{-- <p style="margin-left:48px; text-align:justify">&nbsp;</p> --}}
 
 <p style="margin-left:48px; text-align:justify"><span style="font-size:11pt"><span style="font-family:Calibri,sans-serif"><span style="font-size:12.0pt"><span style="font-family:&quot;Arial&quot;,sans-serif">La informaci&oacute;n perteneciente a Ius Arbitrare es propiedad de la firma. Todos los miembros de la Firma son responsables (i) de tratar la informaci&oacute;n de manera adecuada, (ii) de preservar su confidencialidad, y (iii) de evitar su difusi&oacute;n no autorizada.</span></span></span></span></p>
 
@@ -112,7 +112,7 @@
 
 <p style="margin-left:48px; text-align:justify"><span style="font-size:11pt"><span style="font-family:Calibri,sans-serif"><span style="font-size:12.0pt"><span style="font-family:&quot;Arial&quot;,sans-serif">Ius Arbitrare y todos los sujetos obligados deber&aacute;n respetar siempre la legislaci&oacute;n sobre Protecci&oacute;n de Datos cuando traten datos de car&aacute;cter personal. El tratamiento de dichos datos debe realizarse garantizando el derecho a la intimidad de las personas y con sujeci&oacute;n a la normativa sobre datos de car&aacute;cter personal. En ning&uacute;n caso los datos de car&aacute;cter personal obtenidos por Ius Arbitrare podr&aacute;n ser tratados para fines distintos de los inicialmente recabados. </span></span></span></span></p>
 
-<p style="margin-left:48px">&nbsp;</p>
+{{-- <p style="margin-left:48px">&nbsp;</p> --}}
 
 <ol start="4">
 	<li style="text-align:justify"><span style="font-size:11pt"><span style="font-family:Calibri,sans-serif"><strong><span style="font-size:12.0pt"><span style="font-family:&quot;Arial&quot;,sans-serif">Formaci&oacute;n continua</span></span></strong></span></span></li>
@@ -124,7 +124,7 @@
 
 <p style="margin-left:48px; text-align:justify"><span style="font-size:11pt"><span style="font-family:Calibri,sans-serif"><span style="font-size:12.0pt"><span style="font-family:&quot;Arial&quot;,sans-serif">Ius Arbitrare se nutre de la experiencia y conocimiento de sus miembros, por lo que todos deben compartir con los dem&aacute;s miembros de la firma, el conocimiento y las experiencias profesionales acumulados.</span></span></span></span></p>
 
-<p style="text-align:justify">&nbsp;</p>
+{{-- <p style="text-align:justify">&nbsp;</p> --}}
 
 <ol start="5">
 	<li style="text-align:justify"><span style="font-size:11pt"><span style="font-family:Calibri,sans-serif"><strong><span style="font-size:12.0pt"><span style="font-family:&quot;Arial&quot;,sans-serif">Protecci&oacute;n y uso adecuado de los bienes de la Firma</span></span></strong></span></span></li>
@@ -146,7 +146,7 @@
 
 <p style="margin-left:48px; text-align:justify"><span style="font-size:11pt"><span style="font-family:Calibri,sans-serif"><span style="font-size:12.0pt"><span style="font-family:&quot;Arial&quot;,sans-serif">Se considerar&aacute; que existe conflicto de inter&eacute;s en todas aquellas situaciones en las que entren en colisi&oacute;n, de forma directa o indirecta, los intereses leg&iacute;timos de la firma o de alguno de sus clientes, debiendo siempre de verificarse cualquier posible colisi&oacute;n antes de aceptar un encargo profesional.</span></span></span></span></p>
 
-<p style="text-align:justify">&nbsp;</p>
+{{-- <p style="text-align:justify">&nbsp;</p> --}}
 
 <ol start="7">
 	<li style="text-align:justify"><span style="font-size:11pt"><span style="font-family:Calibri,sans-serif"><strong><span style="font-size:12.0pt"><span style="font-family:&quot;Arial&quot;,sans-serif">Anticorrupci&oacute;n y Soborno</span></span></strong></span></span></li>
@@ -158,7 +158,7 @@
 
 <p style="margin-left:48px; text-align:justify"><span style="font-size:11pt"><span style="font-family:Calibri,sans-serif"><span style="font-size:12.0pt"><span style="font-family:&quot;Arial&quot;,sans-serif">Los miembros del Despacho no podr&aacute;n, directamente o a trav&eacute;s de terceras personas: a)&nbsp;Prometer, ofrecer o conceder, ventajas o beneficios no justificados que tengan por objeto, inmediato o mediato, obtener un beneficio, presente o futuro, ya sea para la Firma, para sí mismos o para un tercero. b) &nbsp;Recibir, solicitar o aceptar beneficios o ventajas de cualquier naturaleza para favorecer indebidamente a terceros en la contrataci&oacute;n de bienes o servicios o en las relaciones comerciales. </span></span></span></span></p>
 
-<p style="text-align:justify">&nbsp;</p>
+{{-- <p style="text-align:justify">&nbsp;</p> --}}
 
 <ol start="8">
 	<li style="text-align:justify"><span style="font-size:11pt"><span style="font-family:Calibri,sans-serif"><strong><span style="font-size:12.0pt"><span style="font-family:&quot;Arial&quot;,sans-serif">Propiedad intelectual e industrial</span></span></strong></span></span></li>
@@ -168,7 +168,7 @@
 
 <p style="margin-left:48px; text-align:justify"><span style="font-size:11pt"><span style="font-family:Calibri,sans-serif"><span style="font-size:12.0pt"><span style="font-family:&quot;Arial&quot;,sans-serif">Los miembros de la Firma deben respetar siempre los derechos de propiedad intelectual e industrial de terceros en su actividad profesional; por consiguiente, en las publicaciones que pudieran realizar, deber&aacute;n citar de forma apropiada los contenidos de terceros.</span></span></span></span></p>
 
-<p style="margin-left:48px; text-align:justify">&nbsp;</p>
+{{-- <p style="margin-left:48px; text-align:justify">&nbsp;</p> --}}
 
 <ol start="9">
 	<li style="text-align:justify"><span style="font-size:11pt"><span style="font-family:Calibri,sans-serif"><strong><span style="font-size:12.0pt"><span style="font-family:&quot;Arial&quot;,sans-serif">Cumplimiento del C&oacute;digo &Eacute;tico y de Conducta de la Firma</span></span></strong></span></span></li>
