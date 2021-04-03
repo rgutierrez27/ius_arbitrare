@@ -7,24 +7,33 @@ use Illuminate\Http\Request;
 
 class HomePageController extends Controller
 {
-    public function getIndexHome(){
-        $areaPractice = AreasPractice::all();
-        return view('index', ['areaPractice' => $areaPractice] );
-    }
+  public function getIndexHome()
+  {
+    $areaPractice = AreasPractice::all();
+    return view('index', ['areaPractice' => $areaPractice]);
+  }
 
-    public function quienesSomos(){
-        return view('about');
-    }
+  public function quienesSomos()
+  {
+    return view('about');
+  }
 
-    public function proyectoProBono(){
-        return view('proyectoProBono');
-    }
+  public function proyectoProBono()
+  {
+    return view('proyectoProBono');
+  }
 
-    public function diversidadEquidad(){
-        return view('diversidadEquidad');
-    }
+  public function diversidadEquidad()
+  {
+    return view('diversidadEquidad');
+  }
 
-    public function codigoEtico(){
-        return view('contactus');
-    }
+  public function codigoEtico()
+  {
+    return view('codigoEtico');
+  }
+  public function trabajaConNosotros()
+  {
+    return view('trabajaConNosotros');
+  }
 }

@@ -57,7 +57,8 @@
     }
     
     .modal__overlay {
-      background: black;
+      /* background-image:url("img/inmobiliaria.jpg"); */
+      opacity: 0.5;
       bottom: 0;
       left: 0;
       position: fixed;
@@ -65,13 +66,12 @@
       text-align: center;
       top: 0;
       z-index: -800;
-    }
-    
+    }    
     .modal__box {
-      padding: 1em .75em;
+      padding: 0.75em 0.75em;
       position: relative;
-      margin: 1em auto;
-      max-width: 500px;
+      margin-top: 4.5em;
+      overflow-x: auto;
       width: 90%;
     }
     @media (min-height: 37.5em) {
@@ -141,6 +141,13 @@
       -ms-transform: scale(0.97);
       transform: scale(0.97);
     }
+
+    #detalleArea{
+      display: -webkit-box;
+      -webkit-line-clamp: 3;
+      -webkit-box-orient: vertical;
+      overflow: hidden;
+    }
     </style>
 @endsection
 
@@ -205,7 +212,7 @@
                                     <div class=gdlr-core-pbf-element>
                                         <div class="gdlr-core-title-item gdlr-core-item-pdb clearfix  gdlr-core-left-align gdlr-core-title-item-caption-top gdlr-core-item-pdlr" style="padding-bottom: 8px ;">
                                             <div class="gdlr-core-title-item-title-wrap ">
-                                                <h3 class="gdlr-core-title-item-title gdlr-core-skin-title " style="font-size: 16px ;font-weight: 700 ;letter-spacing: 4px ;">About Attorna<span class="gdlr-core-title-item-title-divider gdlr-core-skin-divider" ></span></h3></div>
+                                                <h3 class="gdlr-core-title-item-title gdlr-core-skin-title " style="font-size: 16px ;font-weight: 700 ;letter-spacing: 4px ;">Acerca de Nosotros<span class="gdlr-core-title-item-title-divider gdlr-core-skin-divider" ></span></h3></div>
                                         </div>
                                     </div>
                                     <div class=gdlr-core-pbf-element>
@@ -218,29 +225,29 @@
                                     <div class=gdlr-core-pbf-element>
                                         <div class="gdlr-core-text-box-item gdlr-core-item-pdlr gdlr-core-item-pdb gdlr-core-left-align" style="padding-bottom: 15px ;">
                                             <div class=gdlr-core-text-box-item-content style="text-transform: none ;">
-                                                <p>Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts. Separated they live in Bookmarksgrove right at the coast of the Semantics, a large language ocean. A small river.</p>
+                                                <p>Ius Arbitrare Centro de Asesoría Integral y Resolución de Conflictos, es una innovadora institución fundada en el año 2016 y conformada por un equipo multidisciplinario altamente especializado; esto ha permitido un continuo crecimiento de diferentes áreas de especialización, fruto de la innovación y de la constante adaptación a las necesidades de nuestros clientes.</p>
                                             </div>
                                         </div>
                                     </div>
-                                    <div class=gdlr-core-pbf-element>
+                                    {{-- <div class=gdlr-core-pbf-element>
                                         <div class="gdlr-core-image-item gdlr-core-item-pdlr gdlr-core-item-pdb  gdlr-core-left-align">
                                             <div class="gdlr-core-image-item-wrap gdlr-core-media-image  gdlr-core-image-item-style-rectangle" style="border-width: 0px;"><img src=assets/upload/sign-black.png alt width=254 height=47 title=sign-black></div>
                                         </div>
-                                    </div>
-                                    <div class=gdlr-core-pbf-element>
+                                    </div> --}}
+                                    {{-- <div class=gdlr-core-pbf-element>
                                         <div class="gdlr-core-text-box-item gdlr-core-item-pdlr gdlr-core-item-pdb gdlr-core-left-align">
                                             <div class=gdlr-core-text-box-item-content style="font-size: 11px ;font-weight: 400 ;letter-spacing: 4px ;text-transform: uppercase ;">
                                                 <p> CEO &#038; Founder of Attorna</p>
                                             </div>
                                         </div>
-                                    </div>
+                                    </div> --}}
                                 </div>
                             </div>
                         </div>
                         <div class="gdlr-core-pbf-column gdlr-core-column-30 gdlr-core-hide-in-mobile">
                             <div class="gdlr-core-pbf-column-content-margin gdlr-core-js " data-sync-height=height-about>
                                 <div class=gdlr-core-pbf-background-wrap style="border-radius: 0px 4px 4px 0px;-moz-border-radius: 0px 4px 4px 0px;-webkit-border-radius: 0px 4px 4px 0px;">
-                                    <div class="gdlr-core-pbf-background gdlr-core-parallax gdlr-core-js" style="background-image: url(assets/upload/hp-about-bg.jpg) ;background-size: cover ;background-position: center ;" data-parallax-speed=0></div>
+                                    <div class="gdlr-core-pbf-background gdlr-core-parallax gdlr-core-js" style="background-image: url(img/about2.jpg) ;background-size: cover ;background-position: center ;" data-parallax-speed=0></div>
                                 </div>
                                 <div class="gdlr-core-pbf-column-content clearfix gdlr-core-js  gdlr-core-sync-height-content"></div>
                             </div>
@@ -457,30 +464,29 @@
                                 <div class=gdlr-core-pbf-element>
                                     <div class="gdlr-core-text-box-item gdlr-core-item-pdlr gdlr-core-item-pdb gdlr-core-center-align gdlr-core-no-p-space" style="padding-bottom: 22px ;">
                                         <div class=gdlr-core-text-box-item-content style="text-transform: none ;">
-                                            <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Doloribus ex, accusamus ipsum in sunt molestiae doloremque distinctio? Quos eveniet quam quas enim necessitatibus, facilis earum, tenetur rem quasi, dolores magnam.</p>
+                                            <p id="detalleArea">{{$item->detail_area}}</p>
                                         </div>
                                     </div>
                                 </div>
                                 <div class=gdlr-core-pbf-element>
                                     {{-- <div class="gdlr-core-button-item gdlr-core-item-pdlr gdlr-core-item-pdb gdlr-core-center-align"><a class="gdlr-core-button  gdlr-core-button-transparent gdlr-core-button-no-border" href=# style="font-size: 13px ;font-weight: 600 ;letter-spacing: 2px ;color: #b1976b ;padding: 0px 0px 0px 0px;border-radius: 0px;-moz-border-radius: 0px;-webkit-border-radius: 0px;"><span class=gdlr-core-content >ver mas</span><i class="gdlr-core-pos-right fa fa-long-arrow-right" style="color: #b1976b ;"  ></i></a></div> --}}
                                     <input id="modal{{$item->id_area}}" type="checkbox" name="modal{{$item->id_area}}" tabindex="1" style="display: none;">
-                                    <label for="modal{{$item->id_area}}" class="gdlr-core-content" style="font-size: 13px ;font-weight: 600 ;letter-spacing: 2px ;color: #b1976b ;padding: 0px 0px 0px 0px;border-radius: 0px;-moz-border-radius: 0px;-webkit-border-radius: 0px;">VER MAS</label>
-                                    <div class="modal__overlay">
+                                    <label for="modal{{$item->id_area}}" class="gdlr-core-content" style="font-size: 13px ; cursor: pointer;font-weight: 600 ;letter-spacing: 2px ;color: #b1976b ;padding: 0px 0px 0px 0px;border-radius: 0px;-moz-border-radius: 0px;-webkit-border-radius: 0px;">VER MAS</label>
+                                    <div class="modal__overlay" style="background-image:url('{{$item->backgroundimg}}');background-size:100% 100%;">
+                                      <div class="bg-overlay" style="height: 100%; left: 0;position: fixed;top: 0;width: 100%;z-index: 0;background: #00000098;">
                                         <div class="modal__box">
                                           <label for="modal{{$item->id_area}}">&#10006;</label>
                                           <h2>{{$item->name_area}}</h2>
-                                          <p>Descripcion de area.</p>
+                                          <p>{{$item->detail_area}}</p>
                                         </div>
                                       </div>
+                                    </div>
                                 </div>
                             </div>
                         </div>
                     </div>
                     @endforeach
                     </div>
-            
-
-
 
                 </div>
             </div>

@@ -26,7 +26,7 @@
         <div class="attorna-mobile-header-container attorna-container clearfix">
             <div class="attorna-logo  attorna-item-pdlr">
                 <div class=attorna-logo-inner>
-                    <a class href=index.html><img src=assets/upload/logo.png alt width=400 height=71 title=logo></a>
+                    <a class href="/"><img src=assets/upload/logo.png alt width=400 height=71 title=logo></a>
                 </div>
             </div>
             <div class=attorna-mobile-menu-right>
@@ -135,7 +135,7 @@
                 <div class="attorna-top-bar-container-inner clearfix">
                     <div class="attorna-top-bar-left attorna-item-pdlr"><i class="fa fa-phone" style="font-size: 15px ;color: #b1976b ;margin-right: 10px ;"></i>+1-2345-2345-54
                         <div style="margin-left: 12px; margin-right: 14px; display: inline;">&#183;</div><i class="fa fa-envelope-open-o" style="font-size: 14px ;color: #b1976b ;margin-right: 10px ;"></i><a href=mailto:admin@logiscotheme.co>contact@iusarbitrare.com</a>
-                        <div style="margin-left: 10px; margin-right: 13px; display: inline;">&#183;</div><i class=icon_clock_alt style="font-size: 15px ;color: #b1976b ;margin-right: 10px ;"></i>Lunes - Viernes 09:00-17:00</div><a class=attorna-top-bar-right-button href=contact.html target=_self><i class="fa fa-comment-o" ></i>Realizar consulta</a>
+                        <div style="margin-left: 10px; margin-right: 13px; display: inline;">&#183;</div><i class=icon_clock_alt style="font-size: 15px ;color: #b1976b ;margin-right: 10px ;"></i>Lunes - Viernes 09:00-17:00</div><a class=attorna-top-bar-right-button href=contact.html target=_self><i class="fa fa-comment-o" ></i> Contactanos</a>
                     <div class="attorna-top-bar-right attorna-item-pdlr">
                         <div class=attorna-top-bar-right-social><a href=# target=_blank class=attorna-top-bar-social-icon title=facebook><i class="fa fa-facebook" ></i></a><a href=# target=_blank class=attorna-top-bar-social-icon title=linkedin><i class="fa fa-linkedin" ></i></a><a href=# target=_blank class=attorna-top-bar-social-icon title=pinterest><i class="fa fa-pinterest-p" ></i></a><a href=# target=_blank class=attorna-top-bar-social-icon title=twitter><i class="fa fa-twitter" ></i></a><a href=# target=_blank class=attorna-top-bar-social-icon title=instagram><i class="fa fa-instagram" ></i></a></div>
                     </div>
@@ -221,16 +221,10 @@
                                         <li class="menu-item" data-size=60><a href="">NORMATIVA</a></li>
                                     </ul>
                                 </li>
-                                
-                                <li class="menu-item menu-item-has-children attorna-normal-menu"><a href="" class=sf-with-ul-pre>Contactanos</a>
-                                    <ul class=sub-menu>
-                                        <li class="menu-item menu-item-has-children" data-size=60><a href=blog-full-right-sidebar-with-frame.html class=sf-with-ul-pre>Blog Full</a>
-                                            <ul class=sub-menu>
-                                                <li class="menu-item"><a href=blog-full-right-sidebar-with-frame.html>Blog Full Right Sidebar With Frame</a></li>
-                                            </ul>
-                                        </li>
-                                    </ul>
+                                <li class="menu-item menu-item-has-children"><a href="/">Noticias y Eventos</a>
                                 </li>
+                                {{-- <li class="menu-item menu-item-has-children"><a href="/">Normas Legales</a>
+                                </li> --}}
                             </ul>
                             <div class=attorna-navigation-slide-bar id=attorna-navigation-slide-bar></div>
                         </div>
