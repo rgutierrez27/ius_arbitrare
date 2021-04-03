@@ -25,6 +25,6 @@ class HomePageController extends Controller
     }
 
     public function codigoEtico(){
-        return view('codigoEtico');
+        return view('contactus');
     }
 }
